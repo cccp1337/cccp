@@ -11,3 +11,11 @@ One of the most powerful features is the vulnerability scanner, which acts like 
 该平台旨在精准地探索、创建和检查系统。其核心在于整合了侦察工具，用于收集网络、系统或目标的信息，帮助用户绘制数字环境图，并了解所面临的挑战。此外，文件创建组件允许用户快速生成用于测试、组织或模拟的自定义文件，从而为不同的任务增添灵活性和控制力。
 
 其中最强大的功能之一是漏洞扫描器，它如同安全侦探一般，扫描系统中的弱点、错误配置或过时的组件，这些都可能被利用，使用户能够清晰地了解潜在风险。通过整合这些功能，您的项目将创建一个用于探索、测试和改进安全性的一体化环境，使其既实用又灵活，适用于学习和实际应用。
+
+
+Includes
+Geospatial tools
+Packet senders
+File maker
+Vuln Scanner
+
